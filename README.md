@@ -49,7 +49,6 @@ August 2016 – June 2020
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpMngs&theme=light&hide_langs_below=1"/>
 
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpMngs&theme=light&hide_progress=true)](https://github.com/SpMngs/github-readme-stats)
 
