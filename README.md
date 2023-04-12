@@ -51,5 +51,5 @@ August 2016 – June 2020
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpMngs&theme=light&hide_langs_below=1"/>
 
-Hope you like it! Feel free to customize it to your liking and make it your own. Good luck with your future endeavors!
+
 
