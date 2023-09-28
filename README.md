@@ -49,6 +49,6 @@ August 2016 – June 2020
 
 ---
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpMngs&label=Profile%20views&color=0e75b6&style=flat" alt="SpMngs" /> </p>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpMngs&theme=light&hide_progress=true)](https://github.com/SpMngs/github-readme-stats)
 
